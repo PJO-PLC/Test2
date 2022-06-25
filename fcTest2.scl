@@ -1,0 +1,7 @@
+﻿FUNCTION "fcTest2" : Void
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+
+BEGIN
+END_FUNCTION
+
